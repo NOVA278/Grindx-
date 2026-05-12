@@ -1,1 +1,1 @@
-# Grindx-
+# GrindX
